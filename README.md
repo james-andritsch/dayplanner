@@ -22,8 +22,8 @@ THEN the saved events persist
 
 ##Links
 ___
-- [Deployed Page]()
-- [Github Repository]()
+- [Deployed Page](https://james-andritsch.github.io/dayplanner/)
+- [Github Repository](https://github.com/james-andritsch/dayplanner)
 
 ## Screenshot
 ___
